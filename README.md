@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+http://andrewprots.ru/m1/
+
 ## Build Setup
 
 ``` bash
